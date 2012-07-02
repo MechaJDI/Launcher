@@ -1,0 +1,1 @@
+A basic shell that executes files listed in the launch_set text file.
